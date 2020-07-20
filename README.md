@@ -1,1 +1,1 @@
-![Profile](adyasha.gif)
+![](adyasha.gif)
