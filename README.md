@@ -1,4 +1,4 @@
-# Hey there 👋!<br>I am Adyasha Mohanty.
+# Hey there 👋<br>I am Adyasha Mohanty.
 
 ### I am a 1st year IT under-grad from College of Engineering and Technology, Bhubaneswar. I am a front-end developer, currently working on a few open source projects. st1st1
 
