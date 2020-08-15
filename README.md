@@ -1,11 +1,6 @@
 # Hey there 👋<br>I am Adyasha Mohanty.
 
-### I am a 1st year IT under-grad from College of Engineering and Technology, Bhubaneswar. I am a front-end developer, currently working on a few open source projects. st1st1
-
-#### Connect with me on - 
-[<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/_Adyasha8105_) 
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/adyasha-mohanty-7a6254191/) 
-[<img src ="https://img.shields.io/badge/Email-Here-%23E4405F.svg?&style=for-the-badge&logo=&logoColor=white%22">](mailto:adyashamohanty8105@gmail.com)
+### I am a 1st year IT under-grad from College of Engineering and Technology, Bhubaneswar. I am a front-end developer, currently working on a few open source projects.
 
 ### Tech Stacks
 
@@ -25,3 +20,8 @@
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
+
+#### Connect with me on - 
+[<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/_Adyasha8105_) 
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/adyasha-mohanty-7a6254191/) 
+[<img src ="https://img.shields.io/badge/Email-Here-%23E4405F.svg?&style=for-the-badge&logo=&logoColor=white%22">](mailto:adyashamohanty8105@gmail.com)
