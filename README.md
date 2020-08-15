@@ -1,4 +1,4 @@
-# Hey there 👋!<img src="https://raw.githubusercontent.com/arnoob16/arnoob16/master/wave.gif" width="30px"><br>I am Adyasha Mohanty.
+# Hey there 👋!<br>I am Adyasha Mohanty.
 
 ### I am a 1st year IT under-grad from College of Engineering and Technology, Bhubaneswar. I am a front-end developer, currently working on a few open source projects. st1st1
 
@@ -25,6 +25,3 @@
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
-
-### What I listen when I code - 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=ebsz92hxatdvrdbskmjasbzzo&cover_image=false)](https://github.com/kittinan/spotify-github-profile)
