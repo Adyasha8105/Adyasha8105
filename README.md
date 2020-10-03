@@ -1,6 +1,8 @@
 ## Hey there 👋<br>I am Adyasha Mohanty.
 
-### 
+- 🔭 I’m currently working on React.JS.
+- 🥅 2020 Goals: Expertise in web development, contribute to Open Source projects and survive this pandemic!
+- ⚡Facts about me: I listen to alternative and progressive rock; I like to draw and doodle anime and binge-watch movies, series, and read comics!
 
 
 #### Tech Stacks -
@@ -24,6 +26,3 @@
 [<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/_Adyasha8105_) 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/adyasha-mohanty-7a6254191/) 
 [<img src ="https://img.shields.io/badge/Email-Here-%23E4405F.svg?&style=for-the-badge&logo=&logoColor=white%22">](mailto:adyashamohanty8105@gmail.com)
-
-**Visitors Count**  
-![VisitorCount](https://profile-counter.glitch.me/{proghead00}/count.svg)
