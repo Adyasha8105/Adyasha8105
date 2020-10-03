@@ -1,4 +1,4 @@
-## Hey there 👋<br>I am Adyasha Mohanty.
+## Hey there 👋, I am Adyasha!
 
 - 🔭 I’m currently working on React.JS.
 - 🥅 2020 Goals: Expertise in web development, contribute to Open Source projects and survive this pandemic!
