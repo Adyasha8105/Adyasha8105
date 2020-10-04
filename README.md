@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on React.JS.
 - 🥅 2020 Goals: Expertise in web development, contribute to Open Source projects and survive this pandemic!
-- ⚡Facts about me: I listen to alternative and progressive rock; I like to design and binge-watch movies, series!
+- ⚡Facts about me: I am a dancer and I like to design and binge-watch movies, series!
 
 
 #### Tech Stacks -
