@@ -39,7 +39,6 @@
 </table>
 
 #### Connect with me on - 
-<br>
 <table>
     <div align="center m-5" >
         <a href="https://twitter.com/_Adyasha8105_">
