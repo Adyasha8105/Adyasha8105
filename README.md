@@ -1,14 +1,10 @@
 <h1 align="center">Hey there 👋, I am Adyasha!</h1>
 
-- 🔭 I’m currently working on **React.JS**.
-
+- 🔭 I’m currently working on a Blog.
+- 🌱 I’m currently learning **React.JS**.
 - 🥅 2020 Goals: Expertise in web development, contribute to Open Source projects and survive this pandemic!
-
-- ⚡Facts about me: I am a dancer and I like to design and binge-watch movies, series!
-
-- 😄 Pronouns: She/Her
-
-
+- ⚡ Facts about me: I ❤️ dancing and I like to design and binge-watch movies, series!
+- 😄 Pronouns: She / Her / Bro.
 
 #### Tech Stacks -
 
