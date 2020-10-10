@@ -42,7 +42,6 @@
 </table>
 
 #### Connect with me on - 
-<table>
     <tr>
     <td  align="center">
         <a href="https://twitter.com/_Adyasha8105_">
@@ -59,8 +58,5 @@
         </a>
     </td>
     <tr>
-</table> 
 
-[<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/_Adyasha8105_) 
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/adyasha-mohanty-7a6254191/) 
 [<img src ="https://img.shields.io/badge/Email-Here-%23E4405F.svg?&style=for-the-badge&logo=&logoColor=white%22">](mailto:adyashamohanty8105@gmail.com)
