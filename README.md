@@ -30,9 +30,6 @@
 ### Some facts:
 <table>
     <tr>
-        <td>
-            <img src="https://spotify-recently-played-readme.vercel.app/api?user=wex8xjk0lgc4m948k3cb68xe8&count=1&width=500" align="center"/>
-        </td>
         <td rowspan=2>
             <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adyasha8105&theme=dark" align="center"/></td>
     </tr>
@@ -42,8 +39,9 @@
 </table>
 
 #### Connect with me on - 
-    <tr>
-    <td  align="center">
+<br>
+<table>
+    <div align="center m-5" >
         <a href="https://twitter.com/_Adyasha8105_">
         <img align="left" alt="Adyasha | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
         </a>
@@ -56,7 +54,8 @@
         <a href="https://medium.com/@adyashamohanty8105">
         <img align="left" alt="Adyasha"s medium" width="22px" height="22px" src="https://simpleicons.org/icons/medium.svg" />
         </a>
-    </td>
-    <tr>
-
+      </div>                                                                                                                 
+</table>
+<br>
+                                                                                                                          
 [<img src ="https://img.shields.io/badge/Email-Here-%23E4405F.svg?&style=for-the-badge&logo=&logoColor=white%22">](mailto:adyashamohanty8105@gmail.com)
