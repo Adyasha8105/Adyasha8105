@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning **React.JS**.
 - 🥅 2020 Goals: Expertise in web development, contribute to Open Source projects and survive this pandemic!
 - ⚡ Facts about me: I ❤️ dancing and I like to design and binge-watch movies, series!
-- 😄 Pronouns: She / Her / Bro.
+- 😄 Pronouns: She/Her/Bro.
 
 ### Tech Stacks:
 
