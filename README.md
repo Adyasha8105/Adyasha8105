@@ -1,4 +1,4 @@
-<h1 align="center">Hey there 👋, I am Adyasha!</h1>
+# Hey there 👋, I am Adyasha!
 
 - 🔭 I’m currently working on a Blog.
 - 🌱 I’m currently learning **React.JS**.
