@@ -1,7 +1,7 @@
 # Hey there 👋, I am Adyasha!
 
 - 🔭 I’m currently getting my grip on Competative Coding.
-- 🌱 I’m currently learning React.JS.
+- 🌱 I’m currently learning Java.
 - 🥅 2020 Goals: Expertise in web development, contribute to Open Source projects and survive this pandemic!
 - ⚡ Facts about me: I ❤️ dancing and I like to design and watch movies, series!
 - 😄 Pronouns: She/Her/Bro.
