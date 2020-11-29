@@ -1,6 +1,6 @@
 # Hey there 👋, I am Adyasha!
 
-- 🔭 I’m currently getting my grip on Competative Coding.
+- 🔭 I’m currently getting my grip on Competitive Coding.
 - 🌱 I’m currently learning Java.
 - 🥅 2020 Goals: Expertise in web development, contribute to Open Source projects and survive this pandemic!
 - 📫 I share what I think on [Twitter](https://twitter.com/_Adyasha8105_).
