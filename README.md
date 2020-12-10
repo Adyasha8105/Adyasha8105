@@ -51,6 +51,5 @@
       </div>                                                                                                                 
 </table>
 <br>
-
-<p><img src="https://komarev.com/ghpvc/?username=Adyasha8105&style=flat&color=e06c75&label=visitors"/></p>
-[<img src ="https://img.shields.io/badge/Email-Here-%23E4405F.svg?&style=for-the-badge&logo=&logoColor=white%22">](mailto:adyashamohanty8105@gmail.com)
+                                                                                                                          
+<img src ="https://img.shields.io/badge/Email-Here-%23E4405F.svg?&style=for-the-badge&logo=&logoColor=white%22">](mailto:adyashamohanty8105@gmail.com)
