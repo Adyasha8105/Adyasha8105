@@ -52,4 +52,5 @@
 </table>
 <br>
                                                                                                                           
+![](https://komarev.com/ghpvc/?username=Adyasha8105&color=green)                                                                                                                      
 [<img src ="https://img.shields.io/badge/Email-Here-%23E4405F.svg?&style=for-the-badge&logo=&logoColor=white%22">](mailto:adyashamohanty8105@gmail.com)
