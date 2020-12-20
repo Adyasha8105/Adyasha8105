@@ -1,4 +1,6 @@
-# Hey there 👋, I am Adyasha!
+
+# Hey, I am Adyasha!
+<img src="https://user-images.githubusercontent.com/54095539/102720043-d0200400-4317-11eb-841e-de8fd6cc8ae8.png" width="30%">
 
 - ✈️ Hire me for remote work & internships
 - 🔭 I’m currently getting my grip on Competitive Coding.
