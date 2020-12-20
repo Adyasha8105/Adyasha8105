@@ -1,5 +1,6 @@
 # Hey there 👋, I am Adyasha!
 
+- ✈️ Hire me for remote work & internships
 - 🔭 I’m currently getting my grip on Competitive Coding.
 - 🌱 I’m currently learning React.
 - 🥅 2020 Goals: Expertise in web development, contribute to Open Source projects and survive this pandemic!
