@@ -1,5 +1,5 @@
 # Hey 👋, I am Adyasha!
-<img align="right" width="50%" src="https://user-images.githubusercontent.com/54095539/102720043-d0200400-4317-11eb-841e-de8fd6cc8ae8.png">
+<img align="right" width="50%" src="https://user-images.githubusercontent.com/54095539/102750664-36df0500-438c-11eb-9948-314408096b6f.png">
 
 - ✈️ Hire me for remote work & internships
 - 🔭 I’m currently getting my grip on Competitive Coding.
