@@ -1,5 +1,5 @@
 # Hey 👋, I am Adyasha!
-<img align="right" width="50%" src="https://user-images.githubusercontent.com/54095539/102752553-c0440680-438f-11eb-832a-9f173898cd40.png">
+<img align="right" width="50%" src="https://user-images.githubusercontent.com/54095539/103103952-894d4980-464a-11eb-8670-5b026829077b.png">
 
 - ✈️ Hire me for remote work & internships
 - 🔭 I’m currently getting my grip on Competitive Coding.
@@ -54,5 +54,5 @@
 </table>
 <br>
                                                                                                                           
-![](https://komarev.com/ghpvc/?username=Adyasha8105&color=6C63FF)                                                                                                                      
+![](https://komarev.com/ghpvc/?username=Adyasha8105&color=#79FFE1)                                                                                                                      
 [<img src ="https://img.shields.io/badge/Email-Here-%23E4405F.svg?&style=for-the-badge&logo=&logoColor=#6C63FF">](mailto:adyashamohanty8105@gmail.com)
