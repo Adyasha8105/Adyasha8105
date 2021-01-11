@@ -2,8 +2,8 @@
 <img align="right" width="50%" src="https://user-images.githubusercontent.com/54095539/103103952-894d4980-464a-11eb-8670-5b026829077b.png">
 
 - 🔭 I’m currently getting my grip on Competitive Coding.
-- 🌱 I’m currently learning React.
-- 🥅 2020 Goals: Expertise in web development, contribute to Open Source projects and survive this pandemic!
+- 🌱 I’m currently learning React :)
+- 🥅 2020 Goals: Expertise in web development, contribute to Open Source projects and survive this pandemic (hopefully survived)!
 - 📫 I share what I think on [Twitter](https://twitter.com/_Adyasha8105_).
 - ⚡ Facts about me: I ❤️ dancing and I like to design and watch movies, series!
 - 😄 Pronouns: She/Her/Bro.
