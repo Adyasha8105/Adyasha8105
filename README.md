@@ -7,7 +7,7 @@ I'm a Frontend Developer 👩‍💻 & UI designer 💜, in love with React and 
 - 🌱 I’m currently working on my Blog and Portfolio page :D
 - 🥅 2020 Goals: Expertise in web development, contribute to Open Source projects and survive this pandemic (hopefully survived)!
 - 📫 I share what I think on [Twitter](https://twitter.com/_Adyasha8105_)
-- ⚡ Facts about me: I ❤️ dancing and I like to design and watch movies, series!
+- ⚡ Facts about me: I love dancing and I like to design and watch movies, series!
 - 😄 Pronouns: She/Her/Bro
 
 ### Tech Stacks:
