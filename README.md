@@ -6,7 +6,7 @@ I'm a Frontend Developer 👩‍💻 & UI designer 💜, in love with React and 
 - 🔭 I’m currently getting my grip on Competitive Coding
 - 🌱 I’m currently working on my Portfolio page :D
 - 🥅 2020 Goals: Expertise in web development, contribute to Open Source projects and survive this pandemic (hopefully survived)!
-- 📫 I share what I think on [Twitter](https://twitter.com/_Adyasha8105_)
+- 📫 I share what I think on [Twitter](https://twitter.com/Adyasha8105)
 - ⚡ Facts about me: I love dancing and I like to design and watch movies, series!
 - 😄 Pronouns: She/Her/Bro
 
@@ -39,7 +39,7 @@ I'm a Frontend Developer 👩‍💻 & UI designer 💜, in love with React and 
 ### Connect with me on: 
 <table>
     <div align="center m-5" >
-        <a href="https://twitter.com/_Adyasha8105_">
+        <a href="https://twitter.com/Adyasha8105">
         <img align="left" alt="Adyasha | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
         </a>
         <a href="https://www.linkedin.com/in/adyasha-mohanty-7a6254191/">
