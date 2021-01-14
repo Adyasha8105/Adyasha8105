@@ -18,12 +18,14 @@ I'm a Frontend Developer 👩‍💻 & UI designer 💜, in love with React and 
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=javascript)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![React](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next.js)
+![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next.js)
 
+##### Back-End Stack
+![Next.js](https://img.shields.io/badge/-Firebase-orange?style=flat-square&logo=firebase)
 
 ##### Languages
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
+![C++](https://img.shields.io/badge/-C/C++-00599C?style=flat-square&logo=C++)
 ![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
 
 ### Some facts:
