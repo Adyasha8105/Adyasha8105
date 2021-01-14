@@ -25,7 +25,7 @@ I'm a Frontend Developer 👩‍💻 & UI designer 💜, in love with React and 
 
 ##### Languages
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
-![C++](https://img.shields.io/badge/-C/C++-00599C?style=flat-square&logo=C++)
+![C++](https://img.shields.io/badge/-C/C++-00599C?style=flat-square&logo=C)
 ![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
 
 ### Some facts:
