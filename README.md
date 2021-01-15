@@ -20,24 +20,10 @@ I'm a Frontend Developer 👩‍💻 & UI designer 💜, in love with React and 
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next.js)
 
-##### Back-End Stack
-![Next.js](https://img.shields.io/badge/-Firebase-orange?style=flat-square&logo=firebase)
-
 ##### Languages
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![C++](https://img.shields.io/badge/-C/C++-00599C?style=flat-square&logo=C)
 ![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
-
-### Some facts:
-<table>
-    <tr>
-        <td rowspan=2>
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adyasha8105&theme=dark" align="center"/></td>
-    </tr>
-    <tr>
-        <td><img src="https://github-readme-stats.vercel.app/api?username=Adyasha8105&count_private=true&theme=dark&show_icons=true" align="center"/></td>
-    </tr>
-</table>
 
 ### Connect with me on: 
 <table>
@@ -57,6 +43,7 @@ I'm a Frontend Developer 👩‍💻 & UI designer 💜, in love with React and 
       </div>                                                                                                                 
 </table>
 <br>
+<br>
                                                                                                                           
-![](https://komarev.com/ghpvc/?username=Adyasha8105&color=79FFE1)                                                                                                                      
+![](https://komarev.com/ghpvc/?username=Adyasha8105&color=79FFE1)                                                                                                                 <a href="https://twitter.com/intent/follow?screen_name=Adyasha8105"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/Adyasha8105?style=social" /></a>   
 [<img src ="https://img.shields.io/badge/Email-Here-%23E4405F.svg?&style=for-the-badge&logo=&logoColor=#6C63FF">](mailto:adyashamohanty8105@gmail.com)
