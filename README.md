@@ -38,8 +38,11 @@ I'm a Frontend Developer 👩‍💻 , Competitive coder & UI designer 💜, in 
         <img align="left" alt="Adyasha's instagram" width="22px" height="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
         </a>
         <a href="https://medium.com/@adyashamohanty8105">
-        <img align="left" alt="Adyasha"s medium" width="22px" height="22px" src="https://simpleicons.org/icons/medium.svg" />
+        <img align="left" alt="Adyasha"s medium" width="22px" height="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
         </a>
+        <a href="https://www.behance.net/adyasha8105">
+        <img align="left" alt="Adyasha"s medium" width="22px" height="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/behance.svg" />
+        </a>                                                                                                                                     
       </div>                                                                                                                 
 </table>
 <br>
