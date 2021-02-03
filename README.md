@@ -5,7 +5,7 @@ I'm a Frontend Developer 👩‍💻 , Competitive coder & UI designer 💜, in 
 
 - 🔭 I’m currently getting my grip on Competitive Coding
 - 🌱 I’m currently doing an internship :)
-- 🥅 2021 Goals: Expertise in web development (Frontend & Backend), contribute to Open Source projects and survive this pandemic (hopefully survived)!
+- 🥅 2021 Goals: Expertise in web development(Backend), contribute to Open Source projects and survive this pandemic (hopefully survived)!
 - 📫 I share what I think on [Twitter](https://twitter.com/Adyasha8105)
 - ⚡ Facts about me: I love dancing and I like to design and watch movies, series!
 - 😄 Pronouns: She/Her/Bro
