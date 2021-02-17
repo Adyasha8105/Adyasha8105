@@ -3,8 +3,8 @@ I'm a Frontend Developer 👩‍💻 , Competitive coder & UI designer 💜, in 
 <br>
 <img align="right" width="50%" src="https://user-images.githubusercontent.com/54095539/103103952-894d4980-464a-11eb-8670-5b026829077b.png">
 
-- 🔭 I’m currently getting my grip on Competitive Coding
-- 🌱 I’m currently doing an internship :)
+- 🔭 I’m currently doing an internship 
+- 🌱 Meanwhile I'm sharing my new learnings on my [blog](https://adyasha-mohanty.vercel.app/).
 - 🥅 2021 Goals: Expertise in web development(Backend), contribute to Open Source projects and survive this pandemic (hopefully survived)!
 - 📫 I share what I think on [Twitter](https://twitter.com/Adyasha8105)
 - ⚡ Facts about me: I love dancing and I like to design and watch movies, series!
