@@ -5,7 +5,7 @@ I'm a Frontend Developer 👩‍💻 , Competitive coder & UI designer 💜, in 
 
 - 🔭 I’m currently doing an internship .
 - 🌱 Meanwhile I'm sharing my new learnings on my [blog](https://adyasha-mohanty.vercel.app/).
-- 🥅 2021 Goals: Expertise in web development and contribute to Open Source projects.
+- 🥅 2021 Goals: Expertise in web development and contribute to Open Source projects, survive the second wave of pandemic!
 - 📫 I share what I think on [Twitter](https://twitter.com/Adyasha8105)
 - ⚡ Facts about me: I love dancing and I like to design and watch movies, series!
 - 😄 Pronouns: She/Her/Bro
