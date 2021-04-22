@@ -1,10 +1,10 @@
-## Hey 👋, I am [Adyasha Mohanty](https://adyasha-mohanty.vercel.app/)
+## Hey 👋, I am [Adyasha Mohanty](https://adyablogs.tech/)
 I'm a Frontend Developer 👩‍💻 , Competitive coder & UI designer 💜, in love with React and Open Saucing 🍕
 <br>
 <img align="right" width="50%" src="https://user-images.githubusercontent.com/54095539/103103952-894d4980-464a-11eb-8670-5b026829077b.png">
 
 - 🔭 I’m currently doing an internship .
-- 🌱 Meanwhile I'm sharing my new learnings on my [blog](https://adyasha-mohanty.vercel.app/).
+- 🌱 Meanwhile I'm sharing my new learnings on my [blog](https://adyablogs.tech//).
 - 🥅 2021 Goals: Expertise in web development and contribute to Open Source projects, survive the second wave of pandemic!
 - 📫 I share what I think on [Twitter](https://twitter.com/Adyasha8105)
 - ⚡ Facts about me: I love dancing and I like to design and watch movies, series!
