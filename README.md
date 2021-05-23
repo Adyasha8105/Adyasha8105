@@ -1,13 +1,13 @@
 ## Hey 👋, I am [Adyasha Mohanty](https://adyablogs.tech/)
-I'm a Frontend Developer 👩‍💻 & UI designer 💜, in love with NextJS and Open Saucing 🍕
+I work as a <s>web designer</s> Front-end Developer 👩‍💻 with UI/UX skills 💜 (Front-end Designer), in love with NextJS and Open Saucing 🍕
 <br>
 <img align="right" width="50%" src="https://user-images.githubusercontent.com/54095539/103103952-894d4980-464a-11eb-8670-5b026829077b.png">
 
-- 🔭 I’m currently working as a Frontend Developer & making my grip on new innovations and ideas related to tech.
+- 🔭 I’m always trying to grow and learn something new.
 - 🌱 Meanwhile I'm sharing my new learnings on my [blog](https://adyablogs.tech//).
 - 🥅 2021 Goals: Expertise in CP, React and contribute to Open Source projects, survive the second wave of pandemic!
 - 📫 I share what I think on [Twitter](https://twitter.com/Adyasha8105)
-- ⚡ Facts about me: I love dancing and I like to design and watch movies, series!
+- ⚡ Facts about me: I love dancing and I like to watch movies, series!
 - 😄 Pronouns: She/Her/Bro
 
 #### Languages and Tools:
