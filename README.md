@@ -8,7 +8,7 @@ I work as a <s>web designer</s> Front-end Developer 👩‍💻 with UI/UX skill
 - 🥅 2021 Goals: Expertise in CP, React and contribute to Open Source projects, survive the second wave of pandemic!
 - 📫 I share what I think on [Twitter](https://twitter.com/Adyasha8105)
 - ⚡ Facts about me: I love dancing and I like to watch movies, series!
-- 😄 Pronouns: She/Her/Bro
+- 🦄 Pronouns: She/Her/Bro
 
 #### Languages and Tools:
 
