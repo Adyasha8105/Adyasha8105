@@ -1,4 +1,7 @@
 ## Hey 👋, I am [Adyasha Mohanty](https://adyablogs.tech/)
+
+![](https://readme-typing-svg.herokuapp.com?font=Montserrat&color=79FFE1&lines=I'm+a+Frontend+Developer;I'm+a+UI%2FUX+Designer)
+
 I work as a <s>web designer</s> Front-end Developer 👩‍💻 with UI/UX skills 💜 (Front-end Designer), in love with NextJS and Open Saucing 🍕
 <br>
 <img align="right" width="50%" src="https://user-images.githubusercontent.com/54095539/103103952-894d4980-464a-11eb-8670-5b026829077b.png">
