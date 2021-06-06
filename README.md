@@ -6,10 +6,12 @@ I work as a <s>web designer</s> Front-end Developer 👩‍💻 with UI/UX skill
 <br>
 <img align="right" width="50%" src="https://user-images.githubusercontent.com/54095539/103103952-894d4980-464a-11eb-8670-5b026829077b.png">
 
+- ✈️ Hire me for remote work & internships.
 - 🔭 I’m always trying to grow and learn something new.
-- 🌱 Meanwhile I'm sharing my new learnings on my [blog](https://adyablogs.tech//).
-- 🥅 2021 Goals: Expertise in CP, React and contribute to Open Source projects, survive the second wave of pandemic!
+- 🌱 Meanwhile I'm sharing my new learnings on my personal [blog](https://adyablogs.tech/).
+- ⛵ 2021 Goals: Expertise in CP, contribute to Open Source projects as much as I can and survive the second wave of pandemic!
 - 📫 I share what I think on [Twitter](https://twitter.com/Adyasha8105)
+- 🎉 Let's connect on [LinkedIn](https://www.linkedin.com/in/adyasha-mohanty-7a6254191/)
 - ⚡ Facts about me: I love dancing and I like to watch movies, series!
 - 🦄 Pronouns: She/Her/Bro
 
@@ -21,9 +23,11 @@ I work as a <s>web designer</s> Front-end Developer 👩‍💻 with UI/UX skill
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/gatsby/gatsby.png"></code>
 <code><img height="20" width="30" src="https://github.com/jalbertsr/logo-badge-images/blob/master/img/rsz_nextjs.png?raw=true"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>   
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png"></code> 
+<code><img height="20" src="https://user-images.githubusercontent.com/54095539/120929781-09063680-c708-11eb-864d-8f586ef91fec.png"></code>
+<code><img height="20" src="https://user-images.githubusercontent.com/54095539/120929825-2fc46d00-c708-11eb-9009-f4610456de66.png"></code>
 
 #### Connect with me on:
 
