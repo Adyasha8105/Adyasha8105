@@ -2,7 +2,7 @@
 
 I work as a <s>web designer</s> Front-end Developer 👩‍💻 with UI/UX skills 💜 (Front-end Designer), in love with NextJS and Open Saucing 🍕
 <br>
-<img align="right" width="50%" src="https://user-images.githubusercontent.com/54095539/121063155-95d1f280-c7e3-11eb-8087-a54e5dbc6a1f.gif">
+<img align="right" width="46%" src="https://user-images.githubusercontent.com/54095539/121063155-95d1f280-c7e3-11eb-8087-a54e5dbc6a1f.gif">
 
 - ✈️ Hire me for remote work & internships.
 - 🔭 I’m always trying to grow and learn something new.
