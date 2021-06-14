@@ -26,6 +26,7 @@ I work as a <s>web designer</s> Front-end Developer 👩‍💻 with UI/UX skill
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png"></code> 
 <code><img height="20" src="https://user-images.githubusercontent.com/54095539/120929781-09063680-c708-11eb-864d-8f586ef91fec.png"></code>
 <code><img height="20" src="https://user-images.githubusercontent.com/54095539/120929825-2fc46d00-c708-11eb-9009-f4610456de66.png"></code>
+<code><img height="33" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 
 #### Connect with me on:
 
