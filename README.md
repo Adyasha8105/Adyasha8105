@@ -7,9 +7,9 @@ I work as a <s>web designer</s> Front-end Developer 👩‍💻 with UI/UX skill
 - ✈️ Hire me for remote work & internships.
 - 🔭 I’m always trying to grow and learn something new.
 - 🌱 Meanwhile I'm sharing my new learnings on my personal [blog](https://adyablogs.tech/).
-- ⛵ 2021 Goals: Expertise in CP, contribute to Open Source projects as much as I can and survive the pandemic!
+- ⛵ 2021 Goals: Expertise in CP, contribute to Open Source projects, build softwares solutions and survive the pandemic!
 - 📫 I share what I think on [Twitter](https://twitter.com/Adyasha8105).
-- ⚡ Facts about me: I love dancing and I like to watch movies, series!
+- ⚡ Facts about me: I  love lofi and I like to watch movies, series!
 - 🎉 Let's connect [here](https://linktr.ee/Adyasha8105).
 - 🦄 Pronouns: She/Her/Bro
 
