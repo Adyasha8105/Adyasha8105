@@ -13,7 +13,7 @@ I work as a <s>web designer</s> Front-end Developer 👩‍💻 with UI/UX skill
 - 🎉 Let's connect [here](https://linktr.ee/Adyasha8105).
 - 🦄 Pronouns: She/Her/Bro
 
-#### Languages and Tools:
+#### Languages and Tools
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
@@ -28,7 +28,7 @@ I work as a <s>web designer</s> Front-end Developer 👩‍💻 with UI/UX skill
 <code><img height="20" src="https://user-images.githubusercontent.com/54095539/120929825-2fc46d00-c708-11eb-9009-f4610456de66.png"></code>
 <code><img height="33" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 
-#### Connect with me on:
+#### Take a look at my repositories and let's get in touch!
 
 <table>
     <div align="center m-5" >
