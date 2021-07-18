@@ -1,4 +1,4 @@
-## Hey 👋, I am [Adyasha Mohanty](https://adyablogs.tech/)
+## Hey 👋, I am [Adyasha Mohanty](https://adyablogs.tech/) [<img width="3.5%" src="https://user-images.githubusercontent.com/54095539/126079328-4b402dcb-b1fb-4988-b75f-25e24d048d60.gif">](https://www.lofibolly.club/)
 
 I work as a <s>web designer</s> Front-end Developer 👩‍💻 with UI/UX skills 💜 (Front-end Designer), in love with NextJS and Open Saucing 🍕
 <br>
