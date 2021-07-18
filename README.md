@@ -28,7 +28,7 @@ I work as a <s>web designer</s> Front-end Developer 👩‍💻 with UI/UX skill
 <code><img height="20" src="https://user-images.githubusercontent.com/54095539/120929825-2fc46d00-c708-11eb-9009-f4610456de66.png"></code>
 <code><img height="33" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 
-#### Take a look at my repositories and let's get in touch!
+#### Take a look at my handles and let's get in touch!
 
 <table>
     <div align="center m-5" >
@@ -43,6 +43,9 @@ I work as a <s>web designer</s> Front-end Developer 👩‍💻 with UI/UX skill
         </a>
         <a href="https://www.behance.net/adyasha8105">
         <img align="left" alt="Adyasha"s medium" width="22px" height="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/behance.svg" />
+        </a>
+        <a href="https://dribbble.com/adyasha8105">
+        <img align="left" alt="Adyasha"s medium" width="22px" height="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/dribbble.svg" />
         </a>
       </div>                                                                                                                 
 </table>
