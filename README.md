@@ -32,21 +32,24 @@ I work as a <s>web designer</s> Front-end Developer 👩‍💻 with UI/UX skill
 
 <table>
     <div align="center m-5" >
+        <a href="https://www.adyablogs.tech/">
+        <img align="left" alt="AdyashaBlog" width="23px" height="23px" src="https://user-images.githubusercontent.com/54095539/126351050-9cd8c7d4-2611-4728-8f22-cb43b2d5211e.png" />
+        </a>
         <a href="https://twitter.com/Adyasha8105">
-        <img align="left" alt="Adyasha | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+        <img align="left" alt="AdyashaTwitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
         </a>
         <a href="https://www.linkedin.com/in/adyasha-mohanty-7a6254191/">
-        <img align="left" alt="Adyasha's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+        <img align="left" alt="AdyashaLinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
         </a>
         <a href="https://dev.to/adyasha8105">
-        <img align="left" alt="Adyasha"s medium" width="22px" height="22px" src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" />
+        <img align="left" alt="AdyashaDev" width="22px" height="22px" src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" />
         </a>
         <a href="https://www.behance.net/adyasha8105">
-        <img align="left" alt="Adyasha"s medium" width="22px" height="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/behance.svg" />
+        <img align="left" alt="AdyashaMedium" width="22px" height="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/behance.svg" />
         </a>
         <a href="https://dribbble.com/adyasha8105">
-        <img align="left" alt="Adyasha"s medium" width="22px" height="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/dribbble.svg" />
-        </a>
+        <img align="left" alt="AdyashaDribble" width="22px" height="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/dribbble.svg" />
+        </a>                                                                                                                                               
       </div>                                                                                                                 
 </table>
 <br>
