@@ -10,7 +10,7 @@ I work as a <s>web designer</s> Front-end Developer 👩‍💻 with UI/UX skill
 - ⛵ 2021 Goals: Expertise in CP, contribute to Open Source projects, build softwares solutions and survive the pandemic!
 - 📫 I share what I think on [Twitter](https://twitter.com/Adyasha8105).
 - ⚡ Facts about me: I love to hear [lofi songs](https://www.lofibolly.club/) while scribbling on ipad and I like to watch movies, series!
-- 🎉 Let's connect [here](https://adyasha8105.bio.link/).
+- 🎉 Let's connect [here](https://adyasha.bio.link/).
 - 🦄 Pronouns: She/Her/Bro
 
 #### Languages and Tools
