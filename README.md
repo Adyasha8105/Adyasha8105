@@ -4,12 +4,12 @@ I work as a <s>web designer</s> Front-end Developer 👩‍💻 with UI/UX skill
 <br>
 <img align="right" width="46%" src="https://user-images.githubusercontent.com/54095539/121063155-95d1f280-c7e3-11eb-8087-a54e5dbc6a1f.gif">
 
-- ✈️ Hire me for remote work & internships.
+- ✈️ Hire me for remote work & internships :)
 - 🔭 I’m always trying to grow and learn something new.
 - 🌱 Meanwhile I'm sharing my new learnings on my personal [blog](https://adyablogs.tech/).
 - ⛵ 2021 Goals: Expertise in CP, contribute to Open Source projects, build softwares solutions and survive the pandemic!
-- 📫 I share what I think on [Twitter](https://twitter.com/Adyasha8105).
-- ⚡ Facts about me: I love to hear [lofi songs](https://www.lofibolly.club/) while scribbling on ipad and I like to watch movies, series!
+- 📫 I share software discoveries and inconviniences of my life on [Twitter](https://twitter.com/Adyasha8105).
+- ⚡ Facts about me: I love to hear [lofi](https://www.lofibolly.club/) and 90 songs while scribbling on ipad and like to watch movies, series!
 - 🎉 Let's connect [here](https://adyasha.bio.link/).
 - 🦄 Pronouns: She/Her/Bro
 
