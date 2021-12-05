@@ -1,6 +1,6 @@
 ## Hey 👋, I am [Adyasha Mohanty](https://adyablogs.tech/) [<img width="3.5%" src="https://user-images.githubusercontent.com/54095539/126079328-4b402dcb-b1fb-4988-b75f-25e24d048d60.gif">](https://www.lofibolly.club/)
 
-I work as a <s>web designer</s> Front-end Developer 👩‍💻 with UI/UX skills 💜 (Front-end Designer), in love with NextJS and Open Saucing 🍕
+I work as a <s>web designer</s> Front-end Developer 👩‍💻 with UI/UX skills 💜 (Front-end Designer), in love with React and Open Saucing 🍕
 <br>
 <img align="right" width="46%" src="https://user-images.githubusercontent.com/54095539/121063155-95d1f280-c7e3-11eb-8087-a54e5dbc6a1f.gif">
 
