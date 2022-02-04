@@ -1,4 +1,4 @@
-## Hey 👋, I am [Adyasha](https://adyablogs.tech/)[<img width="3.5%" src="https://user-images.githubusercontent.com/54095539/126079328-4b402dcb-b1fb-4988-b75f-25e24d048d60.gif">](https://www.lofibolly.club/)
+## Hey 👋, I am [Adyasha](https://adyablogs.vercel.app/)[<img width="3.5%" src="https://user-images.githubusercontent.com/54095539/126079328-4b402dcb-b1fb-4988-b75f-25e24d048d60.gif">](https://www.lofibolly.club/)
 
 I work as a <s>web designer</s> Front-end Developer 👩‍💻 with UI/UX skills 💜 (Front-end Designer), in love with React and Open Saucing 🍕
 <br>
@@ -33,7 +33,7 @@ I work as a <s>web designer</s> Front-end Developer 👩‍💻 with UI/UX skill
 
 <table>
     <div align="center m-5" >
-        <a href="https://www.adyablogs.tech/">
+        <a href="https://adyablogs.vercel.app/">
         <img align="left" alt="AdyashaBlog" width="23px" height="23px" src="https://user-images.githubusercontent.com/54095539/126351050-9cd8c7d4-2611-4728-8f22-cb43b2d5211e.png" />
         </a>
         <a href="https://twitter.com/Adyasha8105">
