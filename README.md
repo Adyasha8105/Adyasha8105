@@ -2,7 +2,7 @@
 
 I work as a <s>web designer</s> Front-end Developer 👩‍💻 with UI/UX skills 💜 (Front-end Designer), in love with React and Open Saucing 🍕
 <br>
-<img align="right" width="37%" src="https://user-images.githubusercontent.com/54095539/144744768-a101d993-d00c-4ffb-b063-34b4021b4c30.gif">
+<img align="right" width="35%" src="https://user-images.githubusercontent.com/54095539/166498952-7f6483dc-66b5-4eb9-a8cf-16f849b07ebe.gif">
 <!-- <img align="right" width="46%" src="https://user-images.githubusercontent.com/54095539/121063155-95d1f280-c7e3-11eb-8087-a54e5dbc6a1f.gif"> -->
 
 - ✈️ Hire me for remote work & internships :)
