@@ -1,8 +1,7 @@
-## Hey 👋, I am [Adyasha](https://adyablogs.vercel.app/)[<img width="3.5%" src="https://user-images.githubusercontent.com/54095539/126079328-4b402dcb-b1fb-4988-b75f-25e24d048d60.gif">](https://www.lofibolly.club/)
+## Hey 👋, I am [Adyasha](https://adyablogs.vercel.app/)[<img width="10%" src="https://user-images.githubusercontent.com/54095539/126079328-4b402dcb-b1fb-4988-b75f-25e24d048d60.gif">](https://www.lofibolly.club/)
 
 I work as a <s>web designer</s> Front-end Developer 👩‍💻 with UI/UX skills 💜 (Front-end Designer), in love with React and Open Saucing 🍕
 <br>
-<img align="right" width="35%" src="https://user-images.githubusercontent.com/54095539/166498952-7f6483dc-66b5-4eb9-a8cf-16f849b07ebe.gif">
 <!-- <img align="right" width="46%" src="https://user-images.githubusercontent.com/54095539/121063155-95d1f280-c7e3-11eb-8087-a54e5dbc6a1f.gif"> -->
 
 - ✈️ Hire me for remote work & internships :)
@@ -13,6 +12,8 @@ I work as a <s>web designer</s> Front-end Developer 👩‍💻 with UI/UX skill
 - ⚡ Facts about me: I love to hear [lofi](https://www.lofibolly.club/) and 90 songs while scribbling on ipad and like to watch movies, series!
 - 🎉 Let's connect [here](https://adyasha.bio.link/).
 - 🦄 Pronouns: She/Her/Bro
+
+<img style="float: right;" width="100%" src="https://user-images.githubusercontent.com/54095539/166498952-7f6483dc-66b5-4eb9-a8cf-16f849b07ebe.gif">
 
 #### Languages and Tools
 
