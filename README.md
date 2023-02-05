@@ -10,7 +10,6 @@ I work as a Front-end Developer 👩‍💻 with a passion for crafting beautifu
 - ⛵ 2023 Goals: Rockstar speaker 🙊, sharing my knowledge through electrifying talks ⚡️, traveling to uncharted territories to feed my wanderlust 🪄, and consistently bringing my A-game in everything I do!
 - 📫 I share software discoveries and inconveniences of my life on [Twitter](https://twitter.com/Adyasha8105).
 - ⚡ Facts about me: I love listening to [lofi](https://www.lofibolly.club/) beats and groovy 90s tunes while unleashing my creativity on my iPad, and love indulging in movie and series binges!
-- 🎉 Let's connect [here](https://twitter.com/Adyasha8105).
 - 🦄 Pronouns: She/Her/Bro
 
 <img style="float: right;" width="20%" src="https://user-images.githubusercontent.com/54095539/166498952-7f6483dc-66b5-4eb9-a8cf-16f849b07ebe.gif">
