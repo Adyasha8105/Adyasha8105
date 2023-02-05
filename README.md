@@ -1,16 +1,16 @@
-## Hey 👋, I am [Adyasha](https://adyablogs.vercel.app/)[<img width="3%" src="https://user-images.githubusercontent.com/54095539/126079328-4b402dcb-b1fb-4988-b75f-25e24d048d60.gif">](https://www.lofibolly.club/)
+## Hey 👋, I am [Adyasha](https://adyasha.in)[<img width="3%" src="https://user-images.githubusercontent.com/54095539/126079328-4b402dcb-b1fb-4988-b75f-25e24d048d60.gif">](https://www.lofibolly.club/)
 
-I work as a <s>web designer</s> Front-end Developer 👩‍💻 with UI/UX skills 💜 (Front-end Designer), in love with React and Open Saucing 🍕
+I work as a Front-end Developer 👩‍💻 with a passion for crafting beautiful and seamless user experiences 💜, in love with React and Open Saucing 🍕. Let's create something epic together!
 <br>
 <!-- <img align="right" width="46%" src="https://user-images.githubusercontent.com/54095539/121063155-95d1f280-c7e3-11eb-8087-a54e5dbc6a1f.gif"> -->
 
-- ✈️ Hire me for remote work & internships :)
+- ✈️ Hire me for freelancing :)
 - 🔭 I’m always trying to grow and learn something new.
-- 🌱 Meanwhile I'm sharing my new learnings on my personal [blog](https://adyablogs.vercel.app/).
-- ⛵ 2021 Goals: Expertise in CP, contribute to Open Source projects, build softwares solutions and survive the pandemic!
+- 🌱 Meanwhile I'm sharing my new learnings on my personal [blog](https://adyasha.in).
+- ⛵ 2023 Goals: Rockstar speaker 🙊, sharing my knowledge through electrifying talks ⚡️, traveling to uncharted territories to feed my wanderlust 🪄, and consistently bringing my A-game in everything I do!
 - 📫 I share software discoveries and inconveniences of my life on [Twitter](https://twitter.com/Adyasha8105).
-- ⚡ Facts about me: I love to hear [lofi](https://www.lofibolly.club/) and 90 songs while scribbling on ipad and like to watch movies, series!
-- 🎉 Let's connect [here](https://adyasha.bio.link/).
+- ⚡ Facts about me: I love listening to [lofi](https://www.lofibolly.club/) beats and groovy 90s tunes while unleashing my creativity on my iPad, and love indulging in movie and series binges!
+- 🎉 Let's connect [here](https://twitter.com/Adyasha8105).
 - 🦄 Pronouns: She/Her/Bro
 
 <img style="float: right;" width="20%" src="https://user-images.githubusercontent.com/54095539/166498952-7f6483dc-66b5-4eb9-a8cf-16f849b07ebe.gif">
@@ -30,11 +30,11 @@ I work as a <s>web designer</s> Front-end Developer 👩‍💻 with UI/UX skill
 <code><img height="20" src="https://user-images.githubusercontent.com/54095539/120929825-2fc46d00-c708-11eb-9009-f4610456de66.png"></code>
 <code><img height="33" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 
-#### Take a look at my handles and let's get in touch!
+#### Peek at my online presence and let's make some memories together!
 
 <table>
     <div align="center m-5" >
-        <a href="https://adyablogs.vercel.app/">
+        <a href="https://adyasha.in">
         <img align="left" alt="AdyashaBlog" width="23px" height="23px" src="https://user-images.githubusercontent.com/54095539/126351050-9cd8c7d4-2611-4728-8f22-cb43b2d5211e.png" />
         </a>
         <a href="https://twitter.com/Adyasha8105">
@@ -45,13 +45,7 @@ I work as a <s>web designer</s> Front-end Developer 👩‍💻 with UI/UX skill
         </a>
         <a href="https://dev.to/adyasha8105">
         <img align="left" alt="AdyashaDev" width="22px" height="22px" src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" />
-        </a>
-        <a href="https://www.behance.net/adyasha8105">
-        <img align="left" alt="AdyashaMedium" width="22px" height="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/behance.svg" />
-        </a>
-        <a href="https://dribbble.com/adyasha8105">
-        <img align="left" alt="AdyashaDribble" width="22px" height="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/dribbble.svg" />
-        </a>                                                                                                                                               
+        </a>                                                                                                                                            
       </div>                                                                                                                 
 </table>
 <br>
