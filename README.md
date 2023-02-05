@@ -1,6 +1,6 @@
 ## Hey 👋, I am [Adyasha](https://adyasha.in)[<img width="3%" src="https://user-images.githubusercontent.com/54095539/126079328-4b402dcb-b1fb-4988-b75f-25e24d048d60.gif">](https://www.lofibolly.club/)
 
-I work as a Front-end Developer 👩‍💻 with a passion for crafting beautiful and seamless user experiences 💜, in love with React and Open Saucing 🍕. Let's create something epic together!
+I work as a Front-end Developer 👩‍💻 with a passion for crafting beautiful and seamless user experiences 💜, in love with React and Open Saucing 🍕. 
 <br>
 <!-- <img align="right" width="46%" src="https://user-images.githubusercontent.com/54095539/121063155-95d1f280-c7e3-11eb-8087-a54e5dbc6a1f.gif"> -->
 
@@ -29,7 +29,7 @@ I work as a Front-end Developer 👩‍💻 with a passion for crafting beautifu
 <code><img height="20" src="https://user-images.githubusercontent.com/54095539/120929825-2fc46d00-c708-11eb-9009-f4610456de66.png"></code>
 <code><img height="33" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 
-#### Peek at my online presence and let's make some memories together!
+#### Peek at my online presence and Let's create something epic together!
 
 <table>
     <div align="center m-5" >
