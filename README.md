@@ -1,13 +1,13 @@
 ## Hey 👋, I am [Adyasha](https://adyasha.in)[<img width="3%" src="https://user-images.githubusercontent.com/54095539/126079328-4b402dcb-b1fb-4988-b75f-25e24d048d60.gif">](https://www.lofibolly.club/)
 
-I work as a Front-end Developer 👩‍💻 with a passion for crafting beautiful and seamless user experiences 💜, in love with React and Open Saucing 🍕. 
+I work as a Front-end Developer 👩‍💻 with a passion for crafting beautiful and seamless user experiences 💜.
 <br>
 <!-- <img align="right" width="46%" src="https://user-images.githubusercontent.com/54095539/121063155-95d1f280-c7e3-11eb-8087-a54e5dbc6a1f.gif"> -->
 
 - ✈️ Hire me for freelancing :)
 - 🔭 I’m always trying to grow and learn something new.
 - 🌱 Meanwhile I'm sharing my new learnings on my personal [blog](https://adyasha.in).
-- ⛵ 2023 Goals: Rockstar speaker 🙊, sharing my knowledge through electrifying talks ⚡️, traveling to uncharted territories to feed my wanderlust 🪄, and consistently bringing my A-game in everything I do!
+- ⛵ Goals: Rockstar speaker 🙊, sharing my knowledge through electrifying talks ⚡️, traveling to uncharted territories to feed my wanderlust 🪄, and consistently bringing my A-game in everything I do!
 - 📫 I share software discoveries and inconveniences of my life on [Twitter](https://twitter.com/Adyasha8105).
 - ⚡ Facts about me: I love listening to [lofi](https://www.lofibolly.club/) beats and groovy 90s tunes while unleashing my creativity on my iPad, and love indulging in movie and series binges!
 - 🦄 Pronouns: She/Her/Bro
